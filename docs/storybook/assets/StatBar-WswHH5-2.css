@@ -1,0 +1,1 @@
+.statbar{color:var(--text-dim);text-transform:uppercase;letter-spacing:.08em;justify-content:space-between;align-items:center;gap:8px;font-size:11px;display:flex}.statbar__pips{gap:3px;display:inline-flex}.statbar__pip{background:#ffffff1f;border-radius:2px;width:14px;height:6px}.statbar__pip--on{background:var(--accent);box-shadow:0 0 6px var(--accent)}
